@@ -37,8 +37,7 @@ A custom Salesforce app for managing student admissions and enrollments.
  # Contact:
  Feel free to connect with me:
   **Email**: chaitalisonkusare789@gmail.com
-  **LinkedIn**:https://www.linkedin.com/in/chaitali789/
-  **GitHub**:
+  **LinkedIn**:https://www.linkedin.com/in/chaitali789
   **Trailhead**:https://www.salesforce.com/trailblazer/csonkusare
 
 
